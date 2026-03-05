@@ -22,11 +22,11 @@
 ### Some examples of these projects:
 
 #### Classic model build from scratch:
-- [Heart Disease detector](https://github.com/JS-codev/Machine-Learning/blob/main/Logistic%20Regression/Heart%20Disease%20Predictor/Heart%20Disease%20Predictor.ipynb)
-- [Profit resaurant predictor](https://github.com/JS-codev/Machine-Learning/blob/main/Linear%20Regression/Profit%20Restaurant%20Predictor%20(Classic%20-%20gradient%20descent)/Profit%20Restaurant%20Predictor.ipynb)
-- [Skin canner detector](https://github.com/JS-codev/Machine-Learning/blob/main/Convolutional%20Neural%20Network%20(CNN)/melanoma-skin-cancer-detector.ipynb)
+- [Heart Disease detector](https://github.com/J-Soh/Machine-Learning/blob/main/Logistic%20Regression/Heart%20Disease%20Predictor/Heart%20Disease%20Predictor.ipynb)
+- [Profit resaurant predictor](https://github.com/J-Soh/Machine-Learning/blob/main/Linear%20Regression/Profit%20Restaurant%20Predictor%20(Classic%20-%20gradient%20descent)/Profit%20Restaurant%20Predictor.ipynb)
+- [Skin canner detector](https://github.com/J-Soh/Machine-Learning/blob/main/Convolutional%20Neural%20Network%20(CNN)/melanoma-skin-cancer-detector.ipynb)
 ---
 
 #### TensorFlow:
-- [Digit Image Classifier](https://github.com/JS-codev/Machine-Learning/blob/main/Deep%20Neural%20Network%20(DNN)/Digit%20Image%20Classifier/Digit%20Classifier%20(TensorFlow).ipynb)
+- [Digit Image Classifier](https://github.com/J-Soh/Machine-Learning/blob/main/Deep%20Neural%20Network%20(DNN)/Digit%20Image%20Classifier/Digit%20Classifier%20(TensorFlow).ipynb)
 
